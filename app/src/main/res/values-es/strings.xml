@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yarr World</string>
+    <string name="welcome_text"> Bienvenido a CS 273 - Desarrollo de aplicaciones móviles</string>
+    <string name="speak_text">Yarr Mundial</string>
+    <string name="button_text">SHILVER MADERAS</string>
+</resources>
