@@ -2,5 +2,6 @@
     <string name="app_name">Yarr World</string>
     <string name="welcome_text">Welcome to CS 273 - Mobile Application Development</string>
     <string name="button_text">SHILVER ME TIMBERS</string>
-    <string name="speak_text">Yarr World!</string>
+    <string name="toast_text">Yarr World!</string>
+    <string name="OCC_image">OCC pirate logo</string>
 </resources>
